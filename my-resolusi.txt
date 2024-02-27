@@ -1,0 +1,4 @@
+my resolution
+- consistent for swift coding
+- consistently doing bangkit tasks
+- can implement Git and GitHub smoothly
