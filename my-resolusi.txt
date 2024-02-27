@@ -3,4 +3,4 @@ my resolution
 - consistently doing bangkit tasks
 - can implement Git and GitHub smoothly
 - can implement oop in swift 
-- can using framework tailwind and react 
+- expert in swift 
