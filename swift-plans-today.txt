@@ -1,3 +1,4 @@
 CREATE NEW YT ABOUT SWIFT
 - seacrh playlist vd
 - add plylist vd
+- create new project using knowladge today
